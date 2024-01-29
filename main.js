@@ -69,7 +69,7 @@ let calcAge = function () {
   let dayValue = day.value;
   let yearValue = year.value;
 
-  let dob = new Date(`${monthValue} ${dayValue} ${yearValue}`);
+  let dob = new Date(yearValue, monthValue - 1, dayValue);
 
   if (dob > date) {
     alert("Cant put future date");
