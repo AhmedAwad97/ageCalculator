@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Age calculator app
 
 ![Design preview for the Age calculator app coding challenge](./design/desktop-preview.jpg)
@@ -100,3 +101,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# ageCalculator
+Calculate your age
+>>>>>>> 34359b70e63dc0bd9881b857cb776b35c344351f
